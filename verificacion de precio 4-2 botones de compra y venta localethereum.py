@@ -252,5 +252,5 @@ BotonCompraAdvcash.grid(row=21,column=5)
 BotonVentaAdvcash= tk.Button(ventana, text="Venta", command=verSellAdvcashLocalethereum)
 BotonVentaAdvcash.grid(row=21,column=6)
 
-
+#ok
 ventana.mainloop()
